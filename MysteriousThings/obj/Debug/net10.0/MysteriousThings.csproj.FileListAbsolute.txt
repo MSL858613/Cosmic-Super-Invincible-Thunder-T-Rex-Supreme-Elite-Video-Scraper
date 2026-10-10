@@ -1,0 +1,29 @@
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\bin\Debug\net10.0\MysteriousThings.exe
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\bin\Debug\net10.0\MysteriousThings.deps.json
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\bin\Debug\net10.0\MysteriousThings.runtimeconfig.json
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\bin\Debug\net10.0\MysteriousThings.dll
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\bin\Debug\net10.0\MysteriousThings.pdb
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.AssemblyInfoInputs.cache
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.AssemblyInfo.cs
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.csproj.CoreCompileInputs.cache
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.dll
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\refint\MysteriousThings.dll
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.pdb
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\MysteriousThings.genruntimeconfig.cache
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\ref\MysteriousThings.dll
+C:\Users\yingca\Desktop\c#\MysteriousThings\MysteriousThings\obj\Debug\net10.0\Mysterio.7DBA4FB3.Up2Date
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\bin\Debug\net10.0\MysteriousThings.exe
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\bin\Debug\net10.0\MysteriousThings.deps.json
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\bin\Debug\net10.0\MysteriousThings.runtimeconfig.json
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\bin\Debug\net10.0\MysteriousThings.dll
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\bin\Debug\net10.0\MysteriousThings.pdb
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.GeneratedMSBuildEditorConfig.editorconfig
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.AssemblyInfoInputs.cache
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.AssemblyInfo.cs
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.csproj.CoreCompileInputs.cache
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.dll
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\refint\MysteriousThings.dll
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.pdb
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.genruntimeconfig.cache
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\ref\MysteriousThings.dll

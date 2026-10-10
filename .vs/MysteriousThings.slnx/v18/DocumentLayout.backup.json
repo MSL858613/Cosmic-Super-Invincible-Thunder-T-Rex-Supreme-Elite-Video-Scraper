@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yingca\\Desktop\\c#\\MysteriousThings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C36BDF7-B247-CE27-1BF4-22120EE5A041}|MysteriousThings\\MysteriousThings.csproj|c:\\users\\yingca\\desktop\\c#\\mysteriousthings\\mysteriousthings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C36BDF7-B247-CE27-1BF4-22120EE5A041}|MysteriousThings\\MysteriousThings.csproj|solutionrelative:mysteriousthings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C36BDF7-B247-CE27-1BF4-22120EE5A041}|MysteriousThings\\MysteriousThings.csproj|c:\\users\\yingca\\desktop\\c#\\mysteriousthings\\mysteriousthings\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C36BDF7-B247-CE27-1BF4-22120EE5A041}|MysteriousThings\\MysteriousThings.csproj|solutionrelative:mysteriousthings\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\yingca\\Desktop\\c#\\MysteriousThings\\MysteriousThings\\Class1.cs",
+              "RelativeDocumentMoniker": "MysteriousThings\\Class1.cs",
+              "ToolTip": "C:\\Users\\yingca\\Desktop\\c#\\MysteriousThings\\MysteriousThings\\Class1.cs",
+              "RelativeToolTip": "MysteriousThings\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:04:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yingca\\Desktop\\c#\\MysteriousThings\\MysteriousThings\\Program.cs",
+              "RelativeDocumentMoniker": "MysteriousThings\\Program.cs",
+              "ToolTip": "C:\\Users\\yingca\\Desktop\\c#\\MysteriousThings\\MysteriousThings\\Program.cs*",
+              "RelativeToolTip": "MysteriousThings\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:02:28.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UW6xU0RaI2o=",
+  "success": true,
+  "projectFilePath": "D:\\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\\MysteriousThings\\MysteriousThings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55043\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.12\\microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "C:\\Users\\55043\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.12\\microsoft.netcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\55043\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\55043\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.12\\microsoft.aspnetcore.app.runtime.win-x64.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
