@@ -27,3 +27,4 @@ D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra ex
 D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.pdb
 D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.genruntimeconfig.cache
 D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\ref\MysteriousThings.dll
+D:\宇宙超级无敌雷霆暴龙至臻至尊典藏巅峰非凡 pro max ultra extreme ultimate elite 视频爬取工具\MysteriousThings\obj\Debug\net10.0\MysteriousThings.sourcelink.json

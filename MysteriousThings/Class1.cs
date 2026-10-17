@@ -62,15 +62,6 @@ namespace MysteriousThings
                             } while (num < input_int);
 
                             Console.WriteLine("下载完毕！");
-                            Console.WriteLine("按任意键退出...");
-                            if (Console.IsInputRedirected)
-                            {
-                                Console.ReadLine();
-                            }
-                            else
-                            {
-                                Console.ReadKey(true);
-                            }
                             return;
                         }
                         else
